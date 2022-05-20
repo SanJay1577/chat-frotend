@@ -1,6 +1,6 @@
 # MERN Stack Project
 
-This project hosted in netlify [chatty-chat]([https://chaty-chat.netlify.app/]).
+This project hosted in netlify [chatty-chat](https://chaty-chat.netlify.app/).
 
 ## Backend Code is Available in the repositery  
 
