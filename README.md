@@ -11,6 +11,6 @@ In the project directory, you can run:
 # individual chat 
 # group chat suppot
 # message notification
-#profile pic support
-#jwt authentication
+# profile pic support
+# jwt authentication
 `
